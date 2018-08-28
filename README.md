@@ -37,17 +37,10 @@ OK，关于第三点，如果小伙伴们之前没有接触过WebSocket，或者
 >5.游戏进行过程中，有一方关闭浏览器，会提示另一方某某人已经下线  
 
 
-**源码地址：[https://github.com/lenve/GobangGame](https://github.com/lenve/GobangGame)**
+**源码地址：[https://github.com/topyzc/GobangGame]
 
-**博客地址：[WebSocket刨根问底(四)之五子棋大战江湖](http://blog.csdn.net/u012702547/article/details/77715369)**
 
-欢迎小伙伴们fork，star。
 
-更多JavaEE资料请关注公众号：
-
-![这里写图片描述](http://img.blog.csdn.net/20170830152727931?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjcwMjU0Nw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-以上。
 
 
 
